@@ -1,0 +1,1 @@
+#scrapes websitre for stock notificants 
